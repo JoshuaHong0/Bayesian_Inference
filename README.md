@@ -9,3 +9,6 @@ This respository includes the implementation of five inference algorithms for Ba
 1. Rejection sampling
 2. Likelihood weighting
 3. Gibbs sampling
+
+## Author
+**Zhezheng Hong** - *Initial work* - [JoshuaHong](https://github.com/JoshuaHong0)
